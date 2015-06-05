@@ -1,3 +1,6 @@
+# Sublime Text Plugin
+
+
 # camelCase <-> dash-case
 Very simple Plugin to convert the selected word from "camelCase" to "dash-case" Notation and vice versa.
 
